@@ -1,9 +1,9 @@
 {
-  "name": "@micro-frontends-demo/container",
+  "name": "container",
   "version": "1.0.0",
-  "description": "Entry point and container application for a micro frontends demo",
-  "repository": "git@github.com:micro-frontends-demo/container",
-  "author": "Cam Jackson",
+  "description": "A container for integrating all other microfrontends",
+  "repository": "https://github.com/MicrofrontendGenerator/container.git",
+  "author": "Retzd",
   "license": "MIT",
   "scripts": {
     "format": "prettier --write",

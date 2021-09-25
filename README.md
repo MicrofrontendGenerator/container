@@ -1,19 +1,15 @@
-# Feed Me
+# Hacktoberfest 2021
+We are open for Hacktoberfest 2021, please feel free to contribute into this repository.
 
-Entry point and container application for a micro frontends demo.
-
-This is a React application, which renders a navigation bar, and uses React Router to select a
-microfrontend to render onto the page.
+# Microfrontend Container
+Microfrontend for containing all microfrontend hosts
 
 # Getting started
 
 1. Clone the repo
 2. `yarn install`
+3. Run all other required hosts [`Microfrontend Host`] and [`Microfrontend Static`]
 3. `yarn start`
 
-You can run the container on its own, but for it to actually do anything you'll
-also need to be running:
-
-# Run the tests
-
-- `yarn test`
+- [`Microfrontend Host`](https://github.com/MicrofrontendGenerator/microfrontend)
+- [`Microfrontend Static`](https://github.com/MicrofrontendGenerator/static.git)
